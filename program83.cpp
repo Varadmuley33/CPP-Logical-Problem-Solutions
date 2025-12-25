@@ -1,11 +1,11 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//  File name :     Program82.cpp
+//  File name :     Program83.cpp
 //  Description :   Demonstrates object-oriented programming by defining
 //                  a class that checks whether a user-entered number
 //                  is a perfect number or not.
 //  Author :        Varad Nitin Muley
-//  Date :          23/11/2025
+//  Date :          18/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -39,20 +39,25 @@ public:
 
     bool CheckPerfect(int iNo)
     {
-        if(iNo < 0)                 // Handle negative input
+        if(iNo < 0)                     // Handle negative input
         {
             iNo = -iNo;
         }
 
-        for(i = 1; i <= (iNo / 2); i++)     // Loop till half of number
+        for(i = 1; i <= (iNo / 2); i++) // Iterate till half of the number
         {
-            if((iNo % i) == 0)              // Check factor
+            if((iNo % i) == 0)          // Check whether 'i' is a factor
             {
-                iSum = iSum + i;
+                iSum = iSum + i;        // Add factor to sum
+            }
+
+            if(iSum > iNo)              // Early termination condition
+            {
+                break;
             }
         }
 
-        return (iSum == iNo);       // Direct boolean return (as in Java)
+        return (iSum == iNo);           // Direct boolean return
     }
 };
 
@@ -64,15 +69,15 @@ public:
 
 int main()
 {
-    int iValue = 0;         // Stores user input
-    bool bRet = false;     // Stores result
+    int iValue = 0;         // Variable to store user input
+    bool bRet = false;     // Variable to store result
 
     cout << "Enter number : " << endl;
-    cin >> iValue;
+    cin >> iValue;         // Accept number from user
 
-    Number *nobj = new Number();    // Dynamic object creation
+    Number *nobj = new Number();     // Dynamically create object
 
-    bRet = nobj->CheckPerfect(iValue);
+    bRet = nobj->CheckPerfect(iValue);   // Check whether number is perfect
 
     if(bRet == true)
     {
