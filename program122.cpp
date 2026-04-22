@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//  File name :     program131.c
+//  File name :     program122.c
 //  Description :   Count positive numbers 
 //  Author :        Varad Nitin Muley
 //  Date :          13/11/2025
