@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//  File name :     Program142.cpp
+//  File name :     Program143.cpp
 //  Description :   
 //  Author :        Varad Nitin Muley
 //  Date :          14/11/2025
@@ -26,16 +26,18 @@ typedef int * IPTR;
 bool LinearSearch(int Arr[],int iSize, int iNo)
 {
     int  iCnt = 0 ;
+    bool bFlag = false;
 
     for(iCnt = 0 ; iCnt < iSize ; iCnt++)
     {
         if(Arr[iCnt] == iNo)
         {
+            bFlag = true;
             break;
         }
     }
 
-    return(iCnt != iSize);    
+    return bFlag;    
 }
 
 int main ()
