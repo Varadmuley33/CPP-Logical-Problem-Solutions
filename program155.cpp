@@ -1,0 +1,79 @@
+////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//  File name :     Program155.cpp
+//  Description :   Prints '#' at odd positions and '*' at even positions
+//  Author :        Varad Nitin Muley
+//  Date :          18/11/2025
+//  Input :         6 
+//  Output :        #   *   #   *   #   *  
+//
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+/////////////////////////////////////////////////////////////////
+//
+//  Required Header files
+//
+/////////////////////////////////////////////////////////////////
+#include<iostream>
+using namespace std;
+
+/////////////////////////////////////////////////////////////////
+//
+//  Function name : Display
+//  Description   : Displays '#' for odd count and '*' for even count
+//  Input         : Integer
+//  Output        : Void
+//  Author        : Varad Nitin Muley
+//  Date          : 18/11/2025
+//
+/////////////////////////////////////////////////////////////////
+void Display(int iNo)
+{
+    int iCnt = 0 ;
+
+    for(iCnt = 1 ; iCnt <= iNo ; iCnt ++)
+    {
+        if((iCnt % 2) == 0)
+        {
+            cout<<"*\t";
+        }
+        else
+        {
+            cout<<"#\t";
+        }
+    }
+
+    cout<<"\n";
+}
+
+/////////////////////////////////////////////////////////////////
+//
+//  Entry point function
+//
+/////////////////////////////////////////////////////////////////
+int main()
+{
+    int iValue = 0 ;
+
+    cout<<"Enter the Frequency : \n";
+    cin>>iValue;
+
+    Display(iValue);
+
+    return 0;
+}
+
+/////////////////////////////////////////////////////////////////
+//
+//  Test cases
+//
+//  Input : 6
+//  Output: #   *   #   *   #   *
+//
+//  Input : 5
+//  Output: #   *   #   *   #
+//
+//  Input : 3
+//  Output: #   *   #
+//
+/////////////////////////////////////////////////////////////////
