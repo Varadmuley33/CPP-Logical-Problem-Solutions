@@ -1,0 +1,80 @@
+////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//  File name :     Program163.cpp
+//  Description :   Prints alternating numbers and '*' using formula
+//  Author :        Varad Nitin Muley
+//  Date :          18/11/2025
+//  Input :         6
+//  Output :        1 * 2 * 3 *  
+//                  1 2 3 4 5 6 
+//
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+/////////////////////////////////////////////////////////////////
+//
+//  Required Header files
+//
+/////////////////////////////////////////////////////////////////
+#include<iostream>
+using namespace std;
+
+/////////////////////////////////////////////////////////////////
+//
+//  Function Name : Display
+//  Description   : Prints pattern using numbers and *
+//  Input         : Integer
+//  Output        : None
+//  Author        : Varad Nitin Muley
+//  Date          : 18/11/2025
+//
+/////////////////////////////////////////////////////////////////
+void Display(int iNo)
+{
+    int iCnt = 0;
+
+    for(iCnt = 1 ; iCnt <= iNo ; iCnt++)
+    {
+        if((iCnt % 2) == 0)
+        {
+            cout<<"*\t";
+        }
+        else
+        {
+            cout<<((iCnt / 2) + 1)<<"\t";
+        }
+    }
+
+    cout<<"\n";
+}
+
+/////////////////////////////////////////////////////////////////
+//
+//  Entry point function
+//
+/////////////////////////////////////////////////////////////////
+int main()
+{
+    int iValue = 0 ;
+
+    cout<<"Enter the Frequency : \n";
+    cin>>iValue;
+
+    Display(iValue);
+
+    return 0;
+}
+
+/////////////////////////////////////////////////////////////////
+//
+//  Test Cases
+//
+//  Input  : 6
+//  Output : 1 * 2 * 3 *
+//
+//  Input  : 5
+//  Output : 1 * 2 * 3
+//
+//  Input  : 4
+//  Output : 1 * 2 *
+//
+/////////////////////////////////////////////////////////////////
