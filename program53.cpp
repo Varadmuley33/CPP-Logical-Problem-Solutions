@@ -16,7 +16,7 @@
 
 #include <iostream>
 using namespace std;
-
+    
 /////////////////////////////////////////////////////////////////
 //
 //  Function Name : CountFactorsNonFactors
