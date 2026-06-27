@@ -4,7 +4,7 @@
 //  Description :   Prime number checking by initializing the flag
 //                  inside the for loop initialiser section.
 //  Author :        Varad Nitin Muley
-//  Date :          22/11/2025
+//  Date :          22/11/2025    
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
