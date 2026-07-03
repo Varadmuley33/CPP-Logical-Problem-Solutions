@@ -4,7 +4,7 @@
 //  Description :   Prints diagonal pattern only for square matrix with validation
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025
-//  Input :         6
+//  Input :         6   
 //  Output :        
 //       
 ////////////////////////////////////////////////////////////////////////////////////////////////
