@@ -3,7 +3,7 @@
 //  File name :     Program186.cpp
 //  Description :   Prints diagonal pattern with '$' on main diagonal and '*' elsewhere
 //  Author :        Varad Nitin Muley
-//  Date :          18/11/2025
+//  Date :          18/11/2025   
 //  Input :         6
 //  Output :        
 //       
