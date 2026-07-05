@@ -11,7 +11,7 @@ void Display(int Brr[], int length)
         cout << Brr[i] << endl;
     }
 }
-
+     
 int CountEven(int Brr[], int length)
 {
     int i = 0, iCount = 0, iSum = 0;
