@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+                                                                  
 void Accept(int Arr[], int iSize)
 {
     int i = 0;
