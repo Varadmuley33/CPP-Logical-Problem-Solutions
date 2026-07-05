@@ -4,7 +4,7 @@ using namespace std;
 void Accept(int Arr[], int iSize)
 {
     int i = 0;
-
+                               
     cout << "Enter the elements of Array : \n";
 
     for(i = 0; i < iSize; i++)
