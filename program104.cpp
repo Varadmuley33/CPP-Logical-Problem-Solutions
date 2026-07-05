@@ -12,7 +12,7 @@ void Accept(int Arr[], int iSize)
         cin >> Arr[i];
     }
 }
-
+                      
 void Display(int Arr[], int iSize)
 {
     int i = 0;
