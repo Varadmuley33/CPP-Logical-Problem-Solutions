@@ -3,7 +3,7 @@
 //  File name :     Program154.cpp
 //  Description :   Prints numbers at odd positions and '*' at even positions
 //  Author :        Varad Nitin Muley
-//  Date :          18/11/2025
+//  Date :          18/11/2025      
 //  Input :         6 
 //  Output :        1   *   3   *   5   *  
 //
