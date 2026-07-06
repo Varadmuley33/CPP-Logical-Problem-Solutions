@@ -2,7 +2,7 @@
 //
 //  File name :     Program156.cpp
 //  Description :   Prints numbers in reverse order from given input to 1
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          18/11/2025
 //  Input :         6 
 //  Output :        6 5 4 3 2 1   
