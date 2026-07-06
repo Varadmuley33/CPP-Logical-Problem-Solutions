@@ -2,7 +2,7 @@
 //
 //  File name :     Program157.cpp
 //  Description :   Prints negative numbers from -iNo to -1
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          18/11/2025
 //  Input :         6 
 //  Output :        -6 -5 -4 -3 -2 -1
