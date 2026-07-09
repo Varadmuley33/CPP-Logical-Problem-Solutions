@@ -3,7 +3,7 @@
 //  File name :     Program58.cpp
 //  Description :   Prime number checking using flag initialization
 //                  outside and updation before loop.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley 
 //  Date :          22/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
