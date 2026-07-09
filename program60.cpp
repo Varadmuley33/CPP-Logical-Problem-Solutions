@@ -2,7 +2,7 @@
 //
 //  File name :     Program60.cpp
 //  Description :   Extracts and displays each digit of a fixed four-digit
-//                  number (7236) one by one using modulus and division.
+//                  number (7236) one by one using modulus and division.  
 //  Author :        Varad Nitin Muley
 //  Date :          22/11/2025
 //
