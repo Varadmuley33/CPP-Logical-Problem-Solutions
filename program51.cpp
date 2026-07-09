@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
-//
+//   
 //  File name :     Program51.cpp
 //  Description :   Extracts digits of a predefined number one by one
 //                  using modulus and division operations.
