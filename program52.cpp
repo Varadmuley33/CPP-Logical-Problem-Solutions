@@ -4,7 +4,7 @@
 //  Description :   Counts the total number of non-factors of a given number
 //                  and displays the count as output.
 //  Author :        Varad Nitin Muley
-//  Date :          22/11/2025
+//  Date :          22/11/2025   
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
    
