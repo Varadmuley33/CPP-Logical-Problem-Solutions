@@ -2,7 +2,7 @@
 //
 //  File name :     Program54.cpp
 //  Description :   Checks whether the given number is prime or not
-//                  using divisor counting technique.
+//                  using divisor counting technique.   
 //  Author :        Varad Nitin Muley
 //  Date :          22/11/2025
 //
