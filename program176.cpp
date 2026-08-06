@@ -4,7 +4,7 @@
 //  Description :   Prints uppercase alphabets line by line using character increment
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025
-//  Input :         5
+//  Input :         5   
 //  Output :        A B C D E
 //                  ASCII : 65 66 67 68 69
 //
