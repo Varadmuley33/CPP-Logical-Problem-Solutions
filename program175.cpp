@@ -2,7 +2,7 @@
 //
 //  File name :     Program174.cpp
 //  Description :   Prints lowercase alphabets using combined loop increment
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          18/11/2025
 //  Input :         5
 //  Output :        a b c d e
