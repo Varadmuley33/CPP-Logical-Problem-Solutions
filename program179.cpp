@@ -4,7 +4,7 @@
 //  Description :   Prints continuous lowercase alphabets in matrix sequence
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025
-//  Input :         iRow = 4, iCol = 4
+//  Input :         iRow = 4, iCol = 4    
 //  Output :        a b c d
 //                  e f g h
 //                  i j k l
