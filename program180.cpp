@@ -2,7 +2,7 @@
 //
 //  File name :     Program180.cpp
 //  Description :   Prints repeating lowercase alphabets for each row
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          18/11/2025
 //  Input :         iRow = 4, iCol = 4
 //  Output :        a b c d
