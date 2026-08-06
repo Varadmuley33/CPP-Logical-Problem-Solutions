@@ -4,7 +4,7 @@
 //  Description :   Prints alternating odd numbers and uppercase alphabets pattern
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025
-//  Input :         8
+//  Input :         8   
 //  Output :        1 A 3 B 5 C 7 D
 //                  Index : 1 2 3 4 5 6 7 8
 //
