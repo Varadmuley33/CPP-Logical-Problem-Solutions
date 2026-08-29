@@ -3,7 +3,7 @@
 //  File name :     Program153.cpp
 //  Description :   Prints numbers from 1 to given input in horizontal format
 //  Author :        Varad Nitin Muley
-//  Date :          18/11/2025
+//  Date :          18/11/2025   
 //  Input :         5 
 //  Output :        1 2 3 4 5 
 //
