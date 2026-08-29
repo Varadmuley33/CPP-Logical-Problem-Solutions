@@ -2,7 +2,7 @@
 //
 //  File name :     Program160.cpp
 //  Description :   Prints numbers from -iNo to iNo in sequence
-//  Author :        Varad Nitin Muley   
+//  Author :        Varad Nitin Muley      
 //  Date :          18/11/2025
 //  Input :         5 
 //  Output :        -5 -4 -3 -2 -1 0 1 2 3 4 5 
