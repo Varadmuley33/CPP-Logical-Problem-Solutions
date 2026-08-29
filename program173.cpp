@@ -4,7 +4,7 @@
 //  Description :   Prints lowercase alphabets using loop increment expression
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025   
-//  Input :         5
+//  Input :         5  
 //  Output :        a b c d e
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
