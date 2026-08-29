@@ -4,7 +4,7 @@ using namespace std;
 void Display()
 {
     cout<<"Inside display\n";
-}
+}  
 
 int main()
 {
