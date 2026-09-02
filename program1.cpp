@@ -3,7 +3,7 @@
 //  File name :     Program1.cpp
 //  Description :   Demonstrates the basic structure of a C++ program
 //                  using simple console output.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          21/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
