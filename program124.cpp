@@ -3,7 +3,7 @@
 //  File name :     program124.c
 //  Description :   Print value of array using loop 
 //  Author :        Varad Nitin Muley
-//  Date :          13/11/2025
+//  Date :          13/11/2025   
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
