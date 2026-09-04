@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  File name :     program121.c
-//  Description :   Print value of array using loop 
+//  Description :   Print value of array using loop   
 //  Author :        Varad Nitin Muley
 //  Date :          13/11/2025
 //
