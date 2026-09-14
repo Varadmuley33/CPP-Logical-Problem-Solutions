@@ -2,7 +2,7 @@
 //
 //  File name :     program114.cpp
 //  Description :   Print value of array using loop with dynamic size
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          13/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
