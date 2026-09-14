@@ -2,7 +2,7 @@
 //
 //  File name :     program113.cpp
 //  Description :   Print value of array using loop 
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          13/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
