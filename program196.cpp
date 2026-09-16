@@ -5,7 +5,7 @@ using namespace std;
 
 int main ()
 {
-    int fd = 0 ;
+    int fd = 0 ;   
     int iRet = 0 ;
 
     fd = creat("PPA.txt",0777);
