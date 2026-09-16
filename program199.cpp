@@ -6,7 +6,7 @@ int main ()
 {
     int iRet = unlink("PPA.txt");
 
-    if(iRet == -1)
+    if(iRet == -1)   
     {
         cout<<"Unable to delete the file\n";
     }
