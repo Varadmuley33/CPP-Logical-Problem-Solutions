@@ -2,7 +2,7 @@
 //
 //  File name :     Program23.cpp
 //  Description :   Demonstrates how to reverse a user-entered integer
-//                  using a loop and modulo operation in C.
+//                  using a loop and modulo operation in C.   
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025
 //
