@@ -3,7 +3,7 @@
 //  File name :     Program24.cpp
 //  Description :   Demonstrates looping inside a function by printing
 //                  a message four times using a for loop in C.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          18/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
