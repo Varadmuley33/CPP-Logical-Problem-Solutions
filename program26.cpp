@@ -3,7 +3,7 @@
 //  File name :     Program26.cpp
 //  Description :   Demonstrates dynamic function usage in C by printing
 //                  a message based on user-entered frequency.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          18/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
