@@ -3,7 +3,7 @@
 //  File name :     Program28.cpp
 //  Description :   Displays numbers from 1 to 5 sequentially using a
 //                  simple function in C.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley  
 //  Date :          18/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
