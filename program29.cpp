@@ -3,7 +3,7 @@
 //  File name :     Program29.cpp
 //  Description :   Demonstrates the use of a loop to display numbers
 //                  from 1 to 5 using a function in C.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          18/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
