@@ -4,7 +4,7 @@
 //  Description :   Demonstrates displaying numbers from 1 to 5 using
 //                  a while loop inside a function in C.
 //  Author :        Varad Nitin Muley
-//  Date :          18/11/2025
+//  Date :          18/11/2025   
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
