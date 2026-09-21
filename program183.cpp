@@ -4,7 +4,7 @@
 //  Description :   Prints first and last rows with '*' and middle rows with '$'
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025
-//  Input :         6
+//  Input :         6    
 //  Output :        
 //       
 ////////////////////////////////////////////////////////////////////////////////////////////////
