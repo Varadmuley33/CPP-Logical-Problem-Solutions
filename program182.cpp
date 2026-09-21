@@ -4,7 +4,7 @@
 //  Description :   Prints alternating rows of lowercase alphabets and numbers
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025
-//  Input :         6
+//  Input :         6   
 //  Output :        
 //       
 ////////////////////////////////////////////////////////////////////////////////////////////////
