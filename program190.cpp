@@ -3,7 +3,7 @@
 //  File name :     Program190.cpp
 //  Description :   Prints upper triangular '#' and lower '*' pattern for square matrix
 //  Author :        Varad Nitin Muley
-//  Date :          18/11/2025
+//  Date :          18/11/2025   
 //  Input :         6
 //  Output :        
 //       
