@@ -2,7 +2,7 @@
 //
 //  File name :     Program188.cpp
 //  Description :   Prints bordered diagonal pattern using '$' and '*' for square matrix
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          18/11/2025
 //  Input :         6
 //  Output :        
