@@ -3,7 +3,7 @@
 //  File name :     Program185.cpp
 //  Description :   Prints hollow rectangular border pattern using '*'
 //  Author :        Varad Nitin Muley
-//  Date :          18/11/2025
+//  Date :          18/11/2025   
 //  Input :         6
 //  Output :            
 //       
