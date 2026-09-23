@@ -2,7 +2,7 @@
 //
 //  File name :     Program32.cpp
 //  Description :   Displays a sequence of numbers followed by '*' symbol
-//                  in a fixed pattern using a simple function in C++.
+//                  in a fixed pattern using a simple function in C++.   
 //  Author :        Varad Nitin Muley
 //  Date :          20/11/2025
 //
