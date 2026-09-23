@@ -3,7 +3,7 @@
 //  File name :     Program31.cpp
 //  Description :   Displays five asterisks (*) using a for loop inside
 //                  a function in C++.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          20/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
