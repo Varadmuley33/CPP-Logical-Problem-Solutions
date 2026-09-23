@@ -4,7 +4,7 @@
 //  Description :   Displays numbers from 1 to user-entered frequency
 //                  using a for loop inside a function in C++.
 //  Author :        Varad Nitin Muley
-//  Date :          20/11/2025
+//  Date :          20/11/2025   
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
