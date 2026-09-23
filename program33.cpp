@@ -2,7 +2,7 @@
 //
 //  File name :     Program33.cpp
 //  Description :   Displays pattern 1 * 2 * 3 * 4 * 5 * using a while
-//                  loop inside a function in C++.
+//                  loop inside a function in C++.   
 //  Author :        Varad Nitin Muley
 //  Date :          20/11/2025
 //
