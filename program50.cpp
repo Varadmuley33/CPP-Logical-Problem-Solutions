@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//  File name :     Program50.cpp
+//  File name :     Program50.cpp    
 //  Description :   Displays all factors of a user-entered number using an
 //                  optimized loop that runs only till iNo/2.
 //  Author :        Varad Nitin Muley
