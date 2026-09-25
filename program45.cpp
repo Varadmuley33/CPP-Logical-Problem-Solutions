@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//  File name :     Program45.cpp
+//  File name :     Program45.cpp   
 //  Description :   Displays the factors of number 6 using multiple
 //                  conditional checks inside a function.
 //  Author :        Varad Nitin Muley
