@@ -3,7 +3,7 @@
 //  File name :     Program41.cpp
 //  Description :   Displays numbers from 1 up to the user-entered value
 //                  using a simple for loop in C++.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          21/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
