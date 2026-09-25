@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//  File name :     Program48.cpp
+//  File name :     Program48.cpp   
 //  Description :   Accepts a number from the user (handles negative input)
 //                  and displays all its factors using a loop.
 //  Author :        Varad Nitin Muley
