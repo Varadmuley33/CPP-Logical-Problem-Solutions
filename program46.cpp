@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//  File name :     Program46.cpp
+//  File name :     Program46.cpp    
 //  Description :   Demonstrates the wrong approach to display factors of
 //                  a number by manually checking each possible divisor.
 //  Author :        Varad Nitin Muley
