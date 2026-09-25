@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//  File name :     Program47.cpp
+//  File name :     Program47.cpp    
 //  Description :   Displays all factors of a user-entered number using
 //                  an efficient loop-based approach.
 //  Author :        Varad Nitin Muley
