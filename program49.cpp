@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//  File name :     Program49.cpp
+//  File name :     Program49.cpp    
 //  Description :   Accepts a number from the user and displays all its
 //                  non-factors using a loop. Handles negative input.
 //  Author :        Varad Nitin Muley
