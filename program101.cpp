@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  File name :     Program101.cpp
-//  Description :   Takes array input from user, displays the elements,
+//  Description :   Takes array input from user, displays the elements,   
 //                  and counts the number of even elements in the array.
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025
