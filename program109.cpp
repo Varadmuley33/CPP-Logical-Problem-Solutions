@@ -2,7 +2,7 @@
 using namespace std;
 
 int main ()
-{
+{   
     int Arr[] = {10,20,30,40};
 
     cout << Arr << endl;
