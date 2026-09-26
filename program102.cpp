@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-void Display(int Brr[], int length)
+void Display(int Brr[], int length)    
 {
     int i = 0;
     cout << "Elements of the array are : \n";
