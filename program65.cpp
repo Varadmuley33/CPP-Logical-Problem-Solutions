@@ -3,7 +3,7 @@
 //  File name :     Program65.cpp
 //  Description :   Demonstrates the use of iteration to extract digits from a
 //                  number (723614) using modulo and division inside a loop.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley  
 //  Date :          22/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
