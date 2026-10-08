@@ -3,7 +3,7 @@
 //  File name :     Program164.cpp
 //  Description :   Prints rectangular matrix pattern of '*' using rows and columns
 //  Author :        Varad Nitin Muley
-//  Date :          18/11/2025
+//  Date :          18/11/2025    
 //  Input :         iRow = 3, iCol = 4
 //  Output :        * * * *
 //                  * * * *
