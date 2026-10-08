@@ -3,7 +3,7 @@
 //  File name :     Program63.cpp
 //  Description :   Extracts digits of a six-digit number (723614) step-by-step
 //                  and displays each extracted digit along with updated value.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley    
 //  Date :          22/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
