@@ -3,7 +3,7 @@
 //  File name :     Program163.cpp
 //  Description :   Prints alternating numbers and '*' using formula
 //  Author :        Varad Nitin Muley
-//  Date :          18/11/2025
+//  Date :          18/11/2025    
 //  Input :         6
 //  Output :        1 * 2 * 3 *  
 //                  1 2 3 4 5 6 
