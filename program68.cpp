@@ -2,7 +2,7 @@
 //
 //  File name :     Program68.cpp
 //  Description :   Demonstrates digit-counting logic (with intentional
-//                  condition kept exactly as provided by the user).
+//                  condition kept exactly as provided by the user).    
 //  Author :        Varad Nitin Muley
 //  Date :          22/11/2025
 //
