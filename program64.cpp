@@ -4,7 +4,7 @@
 //  Description :   Demonstrates the need for iteration by manually extracting
 //                  each digit of a number (723614) using repeated modulo and
 //                  division operations.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley  
 //  Date :          22/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
