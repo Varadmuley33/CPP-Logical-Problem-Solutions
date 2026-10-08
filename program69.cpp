@@ -3,7 +3,7 @@
 //  File name :     Program69.cpp
 //  Description :   Counts the number of digits in a given integer using
 //                  iterative division (original logic kept unchanged).
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley     
 //  Date :          22/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
