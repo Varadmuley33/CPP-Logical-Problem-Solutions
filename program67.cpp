@@ -3,7 +3,7 @@
 //  File name :     Program67.cpp
 //  Description :   Displays each digit of the given number using iterative
 //                  division and modulus operations.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          22/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
