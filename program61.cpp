@@ -4,7 +4,7 @@
 //  Description :   Demonstrates digit extraction of a fixed number (7236)
 //                  while displaying both the extracted digit and the
 //                  updated remaining number after each step.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          22/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
