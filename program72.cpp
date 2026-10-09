@@ -4,7 +4,7 @@
 //  Description :   Displays all factors of a predefined number using
 //                  an iterative loop up to half of the number
 //                  (original logic kept unchanged).
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          23/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
