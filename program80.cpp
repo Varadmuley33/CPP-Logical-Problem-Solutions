@@ -5,7 +5,7 @@
 //                  a class that checks whether a user-entered number
 //                  is a perfect number or not.
 //                  Original logic and structure are preserved.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          23/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
