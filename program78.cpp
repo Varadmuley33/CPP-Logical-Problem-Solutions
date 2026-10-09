@@ -5,7 +5,7 @@
 //                  a class that displays all factors of a user-entered
 //                  number using an iterative approach.
 //                  Object cleanup remarks from Java are documented
-//                  appropriately for C++.
+//                  appropriately for C++.  
 //  Author :        Varad Nitin Muley
 //  Date :          23/11/2025
 //
