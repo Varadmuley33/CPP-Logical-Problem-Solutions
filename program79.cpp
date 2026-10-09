@@ -6,7 +6,7 @@
 //                  is a perfect number or not.
 //                  Original logic and flow are preserved.
 //  Author :        Varad Nitin Muley
-//  Date :          23/11/2025
+//  Date :          23/11/2025   
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
