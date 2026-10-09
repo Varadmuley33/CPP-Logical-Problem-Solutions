@@ -3,7 +3,7 @@
 //  File name :     Program71.cpp
 //  Description :   Computes the addition of digits of a given number using
 //                  iterative digit extraction (original logic kept unchanged).
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          22/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
