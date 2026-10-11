@@ -3,7 +3,7 @@
 //  File name :     Program88.cpp
 //  Description :   Demonstrates object-oriented programming by defining
 //                  a class that calculates the factorial of a
-//                  user-entered number using a long data type
+//                  user-entered number using a long data type   
 //                  to handle larger factorial values.
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025
