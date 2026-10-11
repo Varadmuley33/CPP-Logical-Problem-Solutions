@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  File name :     Program87.cpp
-//  Description :   Demonstrates object-oriented programming by defining
+//  Description :   Demonstrates object-oriented programming by defining   
 //                  a class that calculates the factorial of a
 //                  user-entered number.
 //                  Handles negative input by converting it to positive
