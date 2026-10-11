@@ -3,7 +3,7 @@
 //  File name :     Program86.cpp
 //  Description :   Demonstrates object-oriented programming by defining
 //                  a class that calculates the factorial of a
-//                  user-entered number using an iterative approach.
+//                  user-entered number using an iterative approach.   
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025
 //
