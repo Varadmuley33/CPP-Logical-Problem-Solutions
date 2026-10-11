@@ -3,7 +3,7 @@
 //  File name :     Program89.cpp
 //  Description :   Demonstrates object-oriented programming by defining
 //                  a class that calculates the factorial of a
-//                  user-entered number using a while loop.
+//                  user-entered number using a while loop.   
 //                  Long data type is used to store larger results.
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025
