@@ -2,7 +2,7 @@
 //
 //  File name :     Program90.cpp
 //  Description :   Demonstrates object-oriented programming by defining
-//                  a class that displays all digits of a
+//                  a class that displays all digits of a   
 //                  user-entered number one by one.
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025
