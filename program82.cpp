@@ -4,7 +4,7 @@
 //  Description :   Demonstrates object-oriented programming by defining
 //                  a class that checks whether a user-entered number
 //                  is a perfect number or not.
-//  Author :        Varad Nitin Muley
+//  Author :        Varad Nitin Muley   
 //  Date :          23/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
