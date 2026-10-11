@@ -5,7 +5,7 @@
 //                  a class that checks whether a user-entered number
 //                  is a perfect number or not.
 //                  Uses a reverse loop approach to evaluate factors
-//                  starting from half of the number.
+//                  starting from half of the number.   
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025
 //
