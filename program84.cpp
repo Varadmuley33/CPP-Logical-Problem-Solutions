@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  File name :     Program84.cpp
-//  Description :   Demonstrates object-oriented programming by defining
+//  Description :   Demonstrates object-oriented programming by defining   
 //                  a class that checks whether a user-entered number
 //                  is a perfect number or not.
 //                  Includes combined loop condition to stop iteration
