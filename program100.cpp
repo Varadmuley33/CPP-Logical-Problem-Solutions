@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  File name :     Program100.cpp
-//  Description :   Takes array size and elements from user
+//  Description :   Takes array size and elements from user  
 //                  and displays them using a separate class function.
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025
