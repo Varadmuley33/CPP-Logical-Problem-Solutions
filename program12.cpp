@@ -4,7 +4,7 @@
 //  Description :   Accepts an integer from the user and checks whether
 //                  the number is even or odd.
 //  Author :        Varad Nitin Muley
-//  Date :          18/11/2025
+//  Date :          18/11/2025   
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
