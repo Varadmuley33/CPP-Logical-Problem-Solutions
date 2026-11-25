@@ -2,7 +2,7 @@
 //
 //  File name :     Program13.cpp
 //  Description :   Accepts an integer from user and returns TRUE if
-//                  the number is even, otherwise returns FALSE.
+//                  the number is even, otherwise returns FALSE.   
 //  Author :        Varad Nitin Muley
 //  Date :          18/11/2025
 //
